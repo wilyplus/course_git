@@ -9,4 +9,4 @@
 * Болтать
 
 
-![](img/logo.jpeg)
+![image](img/logo.jpg)
